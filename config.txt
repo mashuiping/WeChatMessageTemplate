@@ -1,0 +1,5 @@
+[app]
+app_id = wxfed490337780960c
+app_secret = a2b7c3f010ffdc3c12a3a0dfb03b1d02
+access_token = UNbYWDoBBbBLR5izgnMn0MGsESn2zyXAxeMBaZujxquqdy2szFUO-jXXMDAzJD7zZ5yv5H2VG3XP0WudlhMkzLM7ec8fIICUc-h_w8fkzJXQc72Ge-sR8_u9Cxh7SMUBSHGdAEANCB
+
